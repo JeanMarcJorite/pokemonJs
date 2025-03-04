@@ -1,0 +1,1 @@
+import { ENDPOINT, ENDPOINT2, ENDPOINT3, ENDPOINT4 } from "../config";
